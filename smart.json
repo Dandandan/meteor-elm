@@ -3,6 +3,6 @@
   "description": "Elm runtime environment",
   "homepage": "https://github.com/Dandandan/meteor-elm",
   "author": "Dandandan",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/Dandandan/meteor-elm.git"
 }
